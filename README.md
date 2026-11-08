@@ -12,11 +12,11 @@
 
 <br/>
 
-### ⬇️ Скачать готовую программу (в 1 клик, без регистрации):
+### ⬇️ Скачать в один клик без регистрации:
 
-[![Скачать для macOS](https://img.shields.io/badge/🍎_Скачать_для_macOS-AirAudio--macOS.zip-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-macOS-Share.zip)
+[![Скачать для macOS](https://img.shields.io/badge/Скачать_для_macOS-AirAudio--macOS.zip-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-macOS-Share.zip)
 &nbsp;&nbsp;
-[![Скачать для Windows](https://img.shields.io/badge/🪟_Скачать_для_Windows-AirAudio--Windows.zip-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-Windows.zip)
+[![Скачать для Windows](https://img.shields.io/badge/Скачать_для_Windows-AirAudio--Windows.zip-0078D6?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0wIDMuNDQ5TDkuNzUgMi4xdjkuNDUxSDBtMTAuOTQ5LTkuNjAyTDI0IDB2MTEuNEgxMC45NDlNMCAxMi42aDkuNzV2OS40NTFMMCAyMC42OTlNMTAuOTQ5IDEyLjZIMjRWMjRsLTEyLjk0OS0xLjg5OCIvPjwvc3ZnPg%3D%3D)](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-Windows.zip)
 
 *(Внутри уже встроено всё необходимое — установка библиотек не требуется)*
 
