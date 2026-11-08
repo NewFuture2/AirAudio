@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="public/icon.png" width="110" height="110" alt="AirAudio Logo" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+<img src="public/icon.png" width="110" height="110" alt="AirAudio by SkyHive Logo" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 
-# 🌌 AirAudio
+# 🌌 AirAudio by SkyHive
 ### Преврати любые гаджеты в домашний 3D-кинотеатр и объёмную аудиосистему!
 
 [![macOS](https://img.shields.io/badge/macOS-12.0+-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/NewFuture2/AirAudio)
@@ -24,11 +24,11 @@
 
 ---
 
-## 💡 Зачем нужен AirAudio?
+## 💡 Зачем нужен AirAudio by SkyHive?
 
 У вас дома наверняка есть ноутбук, свой смартфон, телефон друга, старый планшет или портативная колонка. 
 
-**AirAudio объединяет все эти устройства по Wi-Fi в единую мощную 3D аудиосистему!**
+**AirAudio by SkyHive объединяет все эти устройства по Wi-Fi в единую мощную 3D аудиосистему!**
 
 * 🎬 **Кинотеатр с 3D-звуком дома**: разложите смартфоны и ноутбуки вокруг дивана при просмотре фильмов — звук станет по-настоящему панорамным и кинематографичным, как в кинозале!
 * 🎵 **Объёмная пространственная музыка**: любимые треки больше не звучат «из одной точки» — комната наполняется плотным, кристально чистым 32-bit звуком со всех сторон.
@@ -72,7 +72,7 @@
 
 <div align="center">
 
-Разработано с ❤️: [**@NewFuture2**](https://github.com/NewFuture2)  
+Разработано с ❤️: [**@NewFuture2**](https://github.com/NewFuture2) • **SkyHive**  
 Лицензия: [MIT](LICENSE)
 
 </div>
