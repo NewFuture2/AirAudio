@@ -1,77 +1,78 @@
 <div align="center">
 
-<img src="public/icon.png" width="120" height="120" alt="AirAudio Logo" style="border-radius: 26px; box-shadow: 0 8px 24px rgba(0,0,0,0.15);" />
+<img src="public/icon.png" width="110" height="110" alt="AirAudio Logo" style="border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
 
-# AirAudio
-**Synchronized Multi-Device Hi-Fi Audio Hub for macOS, Windows & Mobile**
+# 🌌 AirAudio
+### Преврати любые гаджеты в домашний 3D-кинотеатр и объёмную аудиосистему!
 
-[![macOS](https://img.shields.io/badge/macOS-12.0+-black?style=flat-square&logo=apple&logoColor=white)](https://github.com/NewFuture2/AirAudio)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/NewFuture2/AirAudio)
-[![Mobile](https://img.shields.io/badge/Mobile-iOS%20%7C%20Android-green?style=flat-square)](https://github.com/NewFuture2/AirAudio)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/NewFuture2/AirAudio?style=flat-square&color=orange)](https://github.com/NewFuture2/AirAudio/releases/latest)
+[![macOS](https://img.shields.io/badge/macOS-12.0+-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/NewFuture2/AirAudio)
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NewFuture2/AirAudio)
+[![iOS & Android](https://img.shields.io/badge/Mobile-iPhone%20%7C%20Android-34C759?style=for-the-badge&logo=googleplay&logoColor=white)](https://github.com/NewFuture2/AirAudio)
+[![License: MIT](https://img.shields.io/badge/License-MIT-ff9500?style=for-the-badge)](LICENSE)
 
 <br/>
 
-### ⬇️ Загрузки (Zero-Install готовые сборки):
+### ⬇️ Скачать готовую программу (в 1 клик, без регистрации):
 
-[![Download for macOS](https://img.shields.io/badge/🍎_Скачать_для_macOS-AirAudio--macOS.zip-black?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-macOS-Share.zip)  
-[![Download for Windows](https://img.shields.io/badge/🪟_Скачать_для_Windows-AirAudio--Windows.zip-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-Windows.zip)
+[![Скачать для macOS](https://img.shields.io/badge/🍎_Скачать_для_macOS-AirAudio--macOS.zip-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-macOS-Share.zip)
+&nbsp;&nbsp;
+[![Скачать для Windows](https://img.shields.io/badge/🪟_Скачать_для_Windows-AirAudio--Windows.zip-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-Windows.zip)
 
-*(Пакеты уже содержат все зависимости — скачивание в 1 клик без регистрации)*
+*(Внутри уже встроено всё необходимое — установка библиотек не требуется)*
 
 </div>
 
 ---
 
-## 🌟 О проекте
+## 💡 Зачем нужен AirAudio?
 
-**AirAudio** — это персональный мультирум аудио-хаб для **macOS** и **Windows**, превращающий ваш компьютер и подключённые по Wi-Fi смартфоны (**iPhone**, **Android**) или планшеты в единую синхронизированную аудиосистему студийного качества.
+У вас дома наверняка есть ноутбук, свой смартфон, телефон друга, старый планшет или портативная колонка. 
 
-Вам **не нужно устанавливать приложения** на мобильные устройства — всё работает мгновенно через браузер по сканированию QR-кода!
+**AirAudio объединяет все эти устройства по Wi-Fi в единую мощную 3D аудиосистему!**
 
----
-
-## 🚀 Быстрый старт (1 минута)
-
-### Вариант А: Запуск на macOS
-1. Скачайте [**AirAudio-macOS-Share.zip**](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-macOS-Share.zip) и распакуйте.
-2. Запустите файл **`Запустить_AirAudio.command`** (или `AirAudio.app`).
-3. В браузере откроется пульт управления с QR-кодом.
-
-### Вариант Б: Запуск на Windows
-1. Скачайте [**AirAudio-Windows.zip**](https://github.com/NewFuture2/AirAudio/releases/latest/download/AirAudio-Windows.zip) и распакуйте.
-2. Дважды кликните по файлу **`Запустить_AirAudio.bat`**.
-3. В браузере откроется пульт управления с QR-кодом.
-*(Если на компьютере ещё нет Python, скрипт сам откроет официальный сайт для быстрой установки).*
-
-### 📱 Как подключить смартфоны (iPhone / Android) и ноутбуки друзей:
-1. Убедитесь, что все устройства подключены к **одной Wi-Fi сети**.
-2. Откройте камеру на iPhone или Android и наведите на **QR-код** на экране.
-3. Либо просто отправьте друзьям в чат локальную ссылку вида `http://<IP-вашего-компьютера>:52800`.
-4. Музыка начинает играть одновременно на всех подключённых смартфонах и колонках!
+* 🎬 **Кинотеатр с 3D-звуком дома**: разложите смартфоны и ноутбуки вокруг дивана при просмотре фильмов — звук станет по-настоящему панорамным и кинематографичным, как в кинозале!
+* 🎵 **Объёмная пространственная музыка**: любимые треки больше не звучат «из одной точки» — комната наполняется плотным, кристально чистым 32-bit звуком со всех сторон.
+* 🎛 **Один пульт для всех**: нажимайте Play, паузу, меняйте громкость или переключайте треки с любого смартфона или ноутбука — всё переключается синхронно на всех устройствах сразу!
+* 📲 **Никаких установок на телефоны**: друзьям не нужно скачивать приложения из App Store или Google Play — они просто наводят камеру на экран и подключаются за 2 секунды через браузер!
 
 ---
 
-## ✨ Ключевые возможности
+## ⚡️ Быстрый старт за 60 секунд
 
-- 🎧 **Синхронный Multi-Device стриминг**: Передача аудиопотока без задержек на любые устройства в локальной Wi-Fi сети.
-- 🎚 **Студийный DSP & Phase Calibration**: Аппаратная калибровка фазы стереобазы, точная регулировка задержек в миллисекундах и 10-полосный эквалайзер.
-- 📊 **Real-Time Spectrum Analyzer**: Визуализация звукового спектра и мониторинг подключённых устройств.
-- 📱 **Zero Install для клиентов**: Никаких приложений из App Store или Google Play — чистый WebAudio API в Safari/Chrome.
-- 🗂 **Интеллектуальный медиа-хаб**: Поддержка плейлистов, drag-and-drop треков, локальных файлов и радиостанций.
+### 1️⃣ На основном компьютере:
+* **На Mac**: Скачайте `AirAudio-macOS-Share.zip`, запустите `Запустить_AirAudio.command` (или `AirAudio.app`).
+* **На Windows**: Скачайте `AirAudio-Windows.zip`, запустите `Запустить_AirAudio.bat`.
+* На экране откроется стильный пульт управления и появится **QR-код**.
 
----
-
-## ⭐️ Обратная связь и поддержка
-
-Если вам понравилось приложение или вы хотите поддержать автора:
-- ⭐️ **Поставьте звёздочку (Star)** в правом верхнем углу репозитория — это помогает развитию проекта!
-- 💬 **Нашли баг или есть идея?** Напишите в раздел [**Issues**](https://github.com/NewFuture2/AirAudio/issues), будем рады обратной связи!
+### 2️⃣ Подключите любые устройства рядом:
+* Откройте камеру на **iPhone**, **Android** или планшете (в той же Wi-Fi сети).
+* Наведите камеру на **QR-код** на экране ноутбука.
+* **Всё!** Наслаждайтесь синхронным объёмным 3D-звучанием вокруг себя!
 
 ---
 
-## 👤 Автор
+## 🚀 Фирменные фишки
 
-Разработано: [**@NewFuture2**](https://github.com/NewFuture2)  
+| Фишка | Как это работает |
+| :--- | :--- |
+| 🎚 **Аппаратная калибровка задержек** | Ползунок синхронизации прямо в реальном времени сдвигает звук на телефоне раньше или позже, начисто убирая эхо даже на лагающих Bluetooth-колонках! |
+| 🪟 **Плавающий мини-виджет на ПК** | Кнопка «Мини-виджет» открывает аккуратное окошко поверх всех программ, окон и игр для управления звуком. |
+| 📱 **Виджет на экране iPhone** | Настоящий плеер автоматически появляется на экране блокировки iOS и в Dynamic Island при воспроизведении. |
+| 📻 **Ламповый звук & 3D Haas Matrix** | Встроенный студийный DSP-процессор с мягким ламповым сатуратором и расширителем стереобазы. |
+
+---
+
+## ⭐️ Поддержите проект
+
+Если вам понравилась идея и приложение:
+- ⭐️ **Поставьте звёздочку (Star)** в правом верхнем углу репозитория — это лучшая мотивация для автора!
+- 💬 **Есть предложение или отзыв?** Загляните в раздел [**Issues**](https://github.com/NewFuture2/AirAudio/issues), будем рады обратной связи!
+
+---
+
+<div align="center">
+
+Разработано с ❤️: [**@NewFuture2**](https://github.com/NewFuture2)  
 Лицензия: [MIT](LICENSE)
+
+</div>
